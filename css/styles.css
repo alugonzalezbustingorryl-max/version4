@@ -370,3 +370,11 @@ td img {
   width: 100px;
   height: 200px;
 }
+.infoboca{
+  float: right;
+width: 40%;
+}
+.imgdeboca{
+  float: left;
+  width: 40%;
+}
